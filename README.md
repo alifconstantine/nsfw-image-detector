@@ -30,8 +30,8 @@ Aplikasi berbasis Streamlit untuk mendeteksi apakah sebuah gambar termasuk NSFW 
 📦 Instalasi
 1️⃣ Clone repository
 ```bash
-git clone https://github.com/username/nsfw-detector.git
-cd nsfw-detector
+git clone https://github.com/alifconstantine/nsfw-image-detector.git
+cd nsfw--image-detector
 ```
 
 2️⃣ Buat virtual environment (opsional tapi direkomendasikan)
